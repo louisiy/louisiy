@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am currently studying in a university and learning to be a full stack engineer.
+I am currently studying in a university interested in C/C++, Python & Web and learning to be a full stack engineer.
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6841616ea7a6cad707660074?variant=dark)](https://roadmap.sh)
+
 <!--
 **louisiy/louisiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
